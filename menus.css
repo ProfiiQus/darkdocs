@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+header.head {
+    background-color: #323643 !important;
+}
+
+header.head h1 {
+    color: #93DEFF !important;
+}
+
+#cookies {
+    display: none !important;
+}
+
+.side-nav {
+    background-color: #323643 !important;
+}
+
+.list-title-icon a p {
+    color: #F7F7F7 !important;
+}
+
+.main section {
+    background-color: #262a36 !important;
+    color: #9296a1 !important;
+}
+
+.main section h1 {
+    color: #93DEFF !important;
+    font-family: 'Roboto', sans-serif !important;
+}
+
+section.main {
+    background-color: #262a36 !important;
+}

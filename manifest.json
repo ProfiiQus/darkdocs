@@ -1,0 +1,12 @@
+{
+    "name": "SmartFP Dark Docs",
+    "version": "1.0",
+    "manifest_version": 2,
+    "description": "Dark Theme Extension for SmartFP Documentation",
+    "content_scripts": [
+        {
+            "matches": ["*://docs.smartfp.cz/*"],
+            "css": ["menus.css", "article.css"]
+        }
+    ]
+}
